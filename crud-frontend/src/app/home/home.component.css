@@ -1,0 +1,5 @@
+.grid-image {
+  width: 100%; /* Ensures the image takes up the full width of the tile */
+  height: 100%; /* Ensures the image takes up the full height of the tile */
+  object-fit: cover; /* Ensures the image covers the tile without distortion */
+}
